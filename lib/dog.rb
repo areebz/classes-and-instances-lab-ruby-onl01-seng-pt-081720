@@ -7,3 +7,5 @@ snoopy = Dog.new
  
 lassie = Dog.new
 
+class person
+end 
